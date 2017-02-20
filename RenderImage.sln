@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderImage", "RenderImage\RenderImage.csproj", "{68FC4EB1-8192-4214-9F5E-1012AE108559}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderImage", "RenderImage.csproj", "{68FC4EB1-8192-4214-9F5E-1012AE108559}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
